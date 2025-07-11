@@ -1,10 +1,10 @@
-# 🎙️ VoiceVibe: Your AI-Powered Conversational Companion! 🚀
+# 🎙️ Zudo: Your AI-Powered Conversational Companion! 🚀
 
-Welcome to **VoiceVibe**, the ultimate voice assistant that’s ready to listen, learn, and light up your world! This repository is a sonic playground where cutting-edge AI meets the power of speech, transforming your voice commands into magical actions. Think of it as your personal genie, minus the lamp—just speak, and let the vibes flow! 🌟
+Welcome to **Zudo**, the ultimate voice assistant that’s ready to listen, learn, and light up your world! This repository is a sonic playground where cutting-edge AI meets the power of speech, transforming your voice commands into magical actions. Think of it as your personal genie, minus the lamp—just speak, and let the vibes flow! 🌟
 
 ---
 
-## 🌈 What’s VoiceVibe All About?
+## 🌈 What’s Zudo All About?
 
 VoiceVibe isn’t just another voice assistant; it’s your sidekick for a smarter, smoother life. Powered by advanced speech recognition and natural language processing, this project brings you:
 - 🎤 **Voice Command Magic**: Control apps, fetch info, or automate tasks with just your voice.
@@ -70,7 +70,7 @@ To check the weather:
 ```bash
 Hey VoiceVibe, what’s the weather in New York?
 ```
-VoiceVibe will fetch and narrate the forecast, with details displayed in the UI! ☀️
+Zudo will fetch and narrate the forecast, with details displayed in the UI! ☀️
 
 ---
 
@@ -99,7 +99,7 @@ Want to add your own flair to VoiceVibe? We’re all ears! 👂
 
 ## 📜 License
 
-VoiceVibe is licensed under the **MIT License**—free to use, remix, and share. Check the `LICENSE` file for details. It’s like an open mic night for coders! 🎵
+Zudo is licensed under the **MIT License**—free to use, remix, and share. Check the `LICENSE` file for details. It’s like an open mic night for coders! 🎵
 
 ---
 
